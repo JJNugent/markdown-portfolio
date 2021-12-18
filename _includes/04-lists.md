@@ -1,6 +1,6 @@
 # My favorite things
-[] - My fiance
-[] - Sushi
+[] - *My fiance*
+[] - **Sushi**
 [] - League of Legends
 [] - Skateboarding
 [] - Working Out
