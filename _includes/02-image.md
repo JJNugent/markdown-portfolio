@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My favorite champion in League of Legends, Irelia](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg)
